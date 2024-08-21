@@ -32,4 +32,4 @@ jobs:
           secretKeys: ${{ secrets.GAME_SECRETKEYS }}
           UserAgent: ${{ secrets.GAME_USERAGENT }}
           fateRegion: ${{ secrets.GAME_REGION }}
-          webhookDiscord: ${{ secrets.DISCORD_WEBHOOK }}
+          webhookDiscord: ${{ https://discord.com/api/webhooks/1275552378292277290/M6V94-6Ry7zbYaFvKhEnfEClW67UJAjvw-seEkWIqXQUzKgM21r2OENKldb86MOVMWNG}}
